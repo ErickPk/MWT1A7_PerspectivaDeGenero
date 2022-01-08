@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(180deg, rgba(0,159,243,1) 25%, rgba(0,215,166,1) 50%, rgba(0,218,88,1) 75%);
+    font-family: 'Satisfy', cursive;
+    font-weight: lighter;
+    color: white;
+}
+
+h1{
+    text-shadow: 5px 5px 5px black;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2{
+    text-shadow: 5px 5px 5px black;
+    font-size: 20px;
+}
+
+h5{
+    text-align: right;
+}
+
+div{
+    border: 5px double white;
+    box-sizing: border-box;
+    padding-inline: 20px;
+    margin-inline: 0px;
+}
+
+img{
+    visibility: visible;
+    display: block;
+    height: 300px;
+    width: 450px;
+    margin: auto;    
+}
+
+ul li {
+    list-style-type: square;
+  }
